@@ -35,8 +35,8 @@ The `requirements.txt` includes the following dependencies:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Vikas9758/Guardrails-Automation.git
+   cd Guardrails-Automation
    ```
 
 2. **Install dependencies**:
