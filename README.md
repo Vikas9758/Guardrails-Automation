@@ -1,6 +1,3 @@
-Certainly! Here's the README in a markdown format that you can directly copy and paste into a `README.md` file:
-
-```markdown
 # Chatbot with Guardrails 🛡️
 
 This repository contains a Streamlit-based chatbot application enhanced with guardrails to ensure safer and more controlled responses from large language models (LLMs). The application leverages the Groq API for LLM interactions and uses NeMo Guardrails to enforce rules on both user inputs and bot outputs.
